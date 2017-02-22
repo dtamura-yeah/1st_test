@@ -1,0 +1,7 @@
+/* 地図キャンパス */
+#map-canvas-1,
+#map-canvas-2,
+#map-canvas-3 {
+	width:  400px ;
+	height: 400px ;
+}
